@@ -16,6 +16,8 @@ This project demonstrates logic building, game mechanics, rendering, collision d
 🏆 Victory Screen
 
 
+
+
 ✨ Features
 
 🧩 Pure JavaScript-based platformer (no libraries)
@@ -33,6 +35,8 @@ This project demonstrates logic building, game mechanics, rendering, collision d
 🔄 Restart button with instant reset
 
 
+
+
 🛠️ Tech Stack
 
 HTML5 Canvas
@@ -40,6 +44,8 @@ HTML5 Canvas
 CSS3
 
 JavaScript (Vanilla JS)
+
+
 
 
 🎯 Gameplay Instructions
@@ -55,6 +61,8 @@ Reach the top to escape
 Press Restart to play again
 
 
+
+
 🧠 What I Learned
 
 Canvas rendering loop
@@ -68,6 +76,8 @@ Inter-platform movement & game logic
 State management (menu → game → death → win)
 
 Storing best score using localStorage
+
+
 
 
 🚀 Future Improvements
